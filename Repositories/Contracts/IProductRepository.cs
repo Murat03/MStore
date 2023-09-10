@@ -1,4 +1,5 @@
-﻿using Entities.Models;
+﻿using Entities.DataTransferObjects;
+using Entities.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,10 @@ namespace Repositories.Contracts
 {
 	public interface IProductRepository
 	{
+		void CreateProduct(Product product);
+		void DeleteOneProduct(Product product);
 		IQueryable<Product> GetAllProducts(bool trackChanges);
 		Product? GetOneProduct(int id, bool trackChanges);
+		void UpdateOneProduct(Product product);
 	}
 }

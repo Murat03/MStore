@@ -13,17 +13,17 @@ namespace Repositories.Config
 	{
 		public void Configure(EntityTypeBuilder<Category> builder)
 		{
-			builder.HasKey(x => x.Id);
-			builder.Property(x => x.Name);
+			builder.HasKey(x => x.CategoryId);
+			builder.Property(x => x.CategoryName);
 
 			builder.HasData(new Category()
 			{
-				Id = 1,
-				Name = "Electronic"
+				CategoryId = 1,
+				CategoryName = "Electronic"
 			},new Category()
 			{
-				Id = 2,
-				Name = "Book"
+				CategoryId = 2,
+				CategoryName = "Book"
 			});
 		}
 	}

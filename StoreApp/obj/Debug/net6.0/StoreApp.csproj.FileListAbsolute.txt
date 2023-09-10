@@ -71,3 +71,5 @@ D:\Yazilim\C#\Projects\Mvc\MStore\StoreApp\bin\Debug\net6.0\Services.pdb
 D:\Yazilim\C#\Projects\Mvc\MStore\StoreApp\obj\Debug\net6.0\StoreApp.csproj.CopyComplete
 D:\Yazilim\C#\Projects\Mvc\MStore\StoreApp\bin\Debug\net6.0\StoreApp.staticwebassets.runtime.json
 D:\Yazilim\C#\Projects\Mvc\MStore\StoreApp\bin\Debug\net6.0\libman.json
+D:\Yazilim\C#\Projects\Mvc\MStore\StoreApp\bin\Debug\net6.0\AutoMapper.dll
+D:\Yazilim\C#\Projects\Mvc\MStore\StoreApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,4 +1,5 @@
-﻿using Entities.Models;
+﻿using Entities.DataTransferObjects;
+using Entities.Models;
 using Repositories.Contracts;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,16 @@ namespace Repositories.Concrete
 		{
 		}
 
+		public void CreateProduct(Product product)
+		{
+			Create(product);
+		}
+
+		public void DeleteOneProduct(Product product)
+		{
+			Remove(product);
+		}
+
 		public IQueryable<Product> GetAllProducts(bool trackChanges)
 		{
 			return FindAll(false);
@@ -21,7 +32,12 @@ namespace Repositories.Concrete
 
 		public Product? GetOneProduct(int id, bool trackChanges)
 		{
-			return FindByCondition(p => p.Id.Equals(id) ,trackChanges);
+			return FindByCondition(p => p.ProductId.Equals(id) ,trackChanges);
+		}
+
+		public void UpdateOneProduct(Product product)
+		{
+			Update(product);
 		}
 	}
 }

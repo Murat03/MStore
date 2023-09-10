@@ -21,7 +21,7 @@ namespace Repositories.Concrete
 
 		public Category? GetOneCategory(int id, bool trackChanges)
 		{
-			return FindByCondition(c => c.Id.Equals(id), trackChanges);
+			return FindByCondition(c => c.CategoryId.Equals(id), trackChanges);
 		}
 	}
 }
