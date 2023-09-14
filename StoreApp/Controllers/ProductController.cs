@@ -1,4 +1,5 @@
 ﻿using Entities.Models;
+using Entities.RequestParameters;
 using Microsoft.AspNetCore.Mvc;
 using Services.Contracts;
 
@@ -11,11 +12,10 @@ namespace StoreApp.Controllers
 		{
 			_manager = manager;
 		}
-
-		public IActionResult Index()
+		public IActionResult Index(ProductRequestParameters p)
 		{
 			ViewBag.Title = "Product";
-			IEnumerable<Product> products = _manager.ProductService.GetAllProducts(false);
+			IEnumerable<Product> products = _manager.ProductService.GetAllProductsWithDetails(p);
 			return View(products);
 		}
 		public IActionResult Get(int id)

@@ -12,7 +12,7 @@ namespace Repositories.Concrete
 	public abstract class RepositoryBase<T> : IRepositoryBase<T> 
 		where T : class, new()
 	{
-		private readonly RepositoryContext _context;
+		protected readonly RepositoryContext _context;
 
 		public RepositoryBase(RepositoryContext context)
 		{

@@ -15,7 +15,6 @@
             <i class="fa-solid fa-house"></i>
             Home
         </a>
-        @*
         <form id="@Model.ProductId" asp-page="/cart" method="post">
             <input type="hidden" asp-for="ProductId" />
             <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathAndQuery()" />
@@ -24,7 +23,6 @@
                 Add To Cart
             </button>
         </form>
-        *@
         <a class="btn btn-outline-secondary" asp-controller="Product" asp-action="Index">
             <i class="fa-solid fa-list"></i>
             Products

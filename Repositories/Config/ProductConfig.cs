@@ -24,7 +24,8 @@ namespace Repositories.Config
 					ProductName = "Computer",
 					Price = 15000,
 					ImageUrl = "/images/1.jpg",
-					CategoryId = 1
+					CategoryId = 1,
+					ShowCase = false
 				},
 				new Product()
 				{
@@ -32,7 +33,8 @@ namespace Repositories.Config
 					ProductName = "Phone",
 					Price = 10000,
 					ImageUrl = "/images/1.jpg",
-					CategoryId = 1
+					CategoryId = 1,
+					ShowCase = false
 				},
 				new Product()
 				{
@@ -40,7 +42,8 @@ namespace Repositories.Config
 					ProductName = "HeadPhones",
 					Price = 1000,
 					ImageUrl = "/images/1.jpg",
-					CategoryId = 1
+					CategoryId = 1,
+					ShowCase = true
 				});
 		}
 	}
