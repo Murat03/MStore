@@ -6,7 +6,7 @@ namespace StoreApp.Controllers
 	{
 		public IActionResult Index()
 		{
-			ViewBag.Title = "Home";
+			ViewData["Title"] = "Welcome";
 			return View();
 		}
 	}

@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Entities.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Repositories;
 
 namespace StoreApp.Infrastructure.Extensions
@@ -12,7 +14,6 @@ namespace StoreApp.Infrastructure.Extensions
 				.CreateScope()
 				.ServiceProvider
 				.GetRequiredService<RepositoryContext>();
-
 			if(context.Database.GetPendingMigrations().Any())
 			{
 				context.Database.Migrate();
@@ -26,6 +27,48 @@ namespace StoreApp.Infrastructure.Extensions
 				.AddSupportedUICultures("tr-TR")
 				.SetDefaultCulture("tr-TR");
 			});
+		
+		}
+		public static async void ConfigureDefaultAdminUser(this IApplicationBuilder app)
+		{
+			const string adminUser = "Admin";
+			const string adminPassword = "Admin+68728";
+
+			UserManager<ApplicationUser> userManager = app
+				.ApplicationServices
+				.CreateScope()
+				.ServiceProvider
+				.GetRequiredService<UserManager<ApplicationUser>>();
+
+			RoleManager<IdentityRole> roleManager = app
+				.ApplicationServices
+				.CreateScope()
+				.ServiceProvider
+				.GetRequiredService<RoleManager<IdentityRole>>();
+
+			ApplicationUser user = await userManager.FindByNameAsync(adminUser);
+			if (user is null)
+			{
+				user = new ApplicationUser()
+				{
+					UserName = adminUser,
+					Email = "muratipekk033@gmail.com",
+					PhoneNumber = "1234567890"
+				};
+
+				var result = await userManager.CreateAsync(user, adminPassword);
+				if (!result.Succeeded)
+					throw new Exception("Admin user could not created.");
+
+				var roleResult = await userManager.AddToRolesAsync(user,
+					roleManager
+					.Roles
+					.Select(r => r.Name)
+					.ToList());
+
+				if (!roleResult.Succeeded)
+					throw new Exception("System have problems with role definition for admin.");
+			}
 		}
 	}
 }

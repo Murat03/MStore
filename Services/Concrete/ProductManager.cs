@@ -34,6 +34,12 @@ namespace Services.Concrete
 			var products = _manager.Product.GetShowcaseProducts(trackChanges);
 			return products;
 		}
+		public IEnumerable<Product> GetLastestProducts(int number, bool trackChanges)
+		{
+			return _manager.Product.GetAllProducts(trackChanges)
+				.OrderByDescending(prd => prd.ProductId)
+				.Take(number);
+		}
 		public Product GetOneProduct(int id, bool trackChanges)
 		{
 			var product = _manager.Product.GetOneProduct(id, trackChanges);

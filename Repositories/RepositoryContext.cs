@@ -1,4 +1,5 @@
 ﻿using Entities.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Repositories
 {
-	public class RepositoryContext : DbContext
+	public class RepositoryContext : IdentityDbContext<ApplicationUser>
 	{
 		public DbSet<Product> Products { get; set; }
 		public DbSet<Category> Categories { get; set; }

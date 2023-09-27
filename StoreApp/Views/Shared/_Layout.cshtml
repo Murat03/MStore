@@ -4,9 +4,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>@ViewBag.Title</title>
-	<link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
+	<title>@ViewData["Title"]</title>
+	<link rel="stylesheet" asp-append-version="true" href="~/lib/bootstrap/css/bootstrap.min.css" />
+	<link rel="stylesheet" asp-append-version="true" href="~/lib/font-awesome/css/all.css" />
 </head>
 <body>
 	<header>
@@ -20,11 +20,11 @@
 		</main>
 	</div>
 	<footer>
-		Footer
+		<partial name="_Footer" />
 		@RenderSection("Footer", false)
 	</footer>
-	<script src="~/lib/jquery/jquery.min.js"></script>
-	<script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-	<script src="~/lib/font-awesome/js/all.min.js"></script>
+	<script asp-append-version="true" src="~/lib/jquery/jquery.min.js"></script>
+	<script asp-append-version="true" src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script asp-append-version="true" src="~/lib/font-awesome/js/all.min.js"></script>
 </body>
 </html>
