@@ -229,19 +229,29 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 2,
                             CategoryId = 1,
-                            ImageUrl = "/images/1.jpg",
+                            ImageUrl = "/images/2.jpg",
                             Price = 10000m,
                             ProductName = "Phone",
-                            ShowCase = false,
+                            ShowCase = true,
                             Summary = ""
                         },
                         new
                         {
                             ProductId = 3,
                             CategoryId = 1,
-                            ImageUrl = "/images/1.jpg",
-                            Price = 1000m,
-                            ProductName = "HeadPhones",
+                            ImageUrl = "/images/3.jpg",
+                            Price = 500m,
+                            ProductName = "Mouse",
+                            ShowCase = true,
+                            Summary = ""
+                        },
+                        new
+                        {
+                            ProductId = 4,
+                            CategoryId = 1,
+                            ImageUrl = "/images/4.jpg",
+                            Price = 50m,
+                            ProductName = "Book",
                             ShowCase = true,
                             Summary = ""
                         });
@@ -276,22 +286,22 @@ namespace StoreApp.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "9cd18e41-abdf-4887-9e23-044d33ca713c",
-                            ConcurrencyStamp = "be37e37a-8a6e-410d-b385-106754f2ef5c",
+                            Id = "476fe659-ca6d-4b2d-9242-34ab7d52d895",
+                            ConcurrencyStamp = "f1165fb3-f66d-449d-b192-b468ecbcdf2c",
                             Name = "User",
                             NormalizedName = "USER"
                         },
                         new
                         {
-                            Id = "2d2eb105-ff3a-49fb-8b0c-e8a1441b6d98",
-                            ConcurrencyStamp = "c708bbba-b2e9-4096-aad8-baf0fed740b3",
+                            Id = "aa257724-2c2f-4bfd-8ead-6ca224fb314a",
+                            ConcurrencyStamp = "aac5b4a3-e462-44c2-8bf4-bd7b942730d5",
                             Name = "Editor",
                             NormalizedName = "EDITOR"
                         },
                         new
                         {
-                            Id = "edff1577-68d5-42b2-8de6-8bb50f99ff4e",
-                            ConcurrencyStamp = "e0bcb657-6fa0-4114-919e-e39f6a40ce59",
+                            Id = "cf334004-bd9d-46f2-ab26-06a3b91a2cfa",
+                            ConcurrencyStamp = "bb4e47b1-4a24-4f46-bc2d-bceff915a674",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });

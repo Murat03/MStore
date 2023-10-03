@@ -32,16 +32,25 @@ namespace Repositories.Config
 					ProductId = 2,
 					ProductName = "Phone",
 					Price = 10000,
-					ImageUrl = "/images/1.jpg",
+					ImageUrl = "/images/2.jpg",
 					CategoryId = 1,
-					ShowCase = false
+					ShowCase = true
 				},
 				new Product()
 				{
 					ProductId = 3,
-					ProductName = "HeadPhones",
-					Price = 1000,
-					ImageUrl = "/images/1.jpg",
+					ProductName = "Mouse",
+					Price = 500,
+					ImageUrl = "/images/3.jpg",
+					CategoryId = 1,
+					ShowCase = true
+				},
+				new Product()
+				{
+					ProductId = 4,
+					ProductName = "Book",
+					Price = 50,
+					ImageUrl = "/images/4.jpg",
 					CategoryId = 1,
 					ShowCase = true
 				});

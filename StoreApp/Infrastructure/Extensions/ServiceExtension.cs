@@ -60,6 +60,7 @@ namespace StoreApp.Infrastructure.Extensions
 			services.AddScoped<ICategoryService, CategoryManager>();
 			services.AddScoped<IOrderService, OrderManager>();
 			services.AddScoped<IAuthService, AuthManager>();
+			services.AddScoped<IRoleService, RoleManager>();
 		}
 		public static void ConfigureApplicationCookie(this IServiceCollection services)
 		{
