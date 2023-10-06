@@ -11,5 +11,7 @@ namespace Repositories.Contracts
 	{
 		public IQueryable<Category> GetAllCategories(bool trackChanges);
 		public Category? GetOneCategory(int id, bool trackChanges);
+		public void CreateCategory(Category category);
+		public void DeleteOneCategory(Category category);
 	}
 }

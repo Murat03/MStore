@@ -70,11 +70,6 @@ namespace Services.Concrete
 			_manager.Product.DeleteOneProduct(product);
 			_manager.Save();
 		}
-
-		
-
-		
-
 		public void UpdateOneProduct(ProductDtoForUpdate productDto)
 		{
 			var product = _mapper.Map<Product>(productDto);
