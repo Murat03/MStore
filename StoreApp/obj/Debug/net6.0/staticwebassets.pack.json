@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets\\images\\7.jpg"
     },
     {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\images\\dress.jpg",
+      "PackagePath": "staticwebassets\\images\\dress.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\images\\dress1.jpg",
+      "PackagePath": "staticwebassets\\images\\dress1.jpg"
+    },
+    {
       "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\images\\stream_deck.jpg",
       "PackagePath": "staticwebassets\\images\\stream_deck.jpg"
     },
@@ -751,6 +759,2094 @@
     {
       "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\icheck-bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\icheck-bootstrap"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\icheck-bootstrap\\icheck-bootstrap.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\jquery.vmap.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\jqvmap.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\jqvmap.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\jqvmap.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locales.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locales.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locales.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locales.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\locales.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\locales.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\moment-with-locales.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\moment-with-locales.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\moment\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\moment\\moment.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\sparklines\\sparkline.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\sparklines\\sparkline.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\sparklines\\sparkline.mjs",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\sparklines\\sparkline.mjs"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.hash",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.hash"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\font\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bn-BD.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bn-BD.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bn-BD.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bn-BD.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bn-BD.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-bn-BD.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-CH.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-CH.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-CH.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-CH.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-CH.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-CH.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-en-US.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-en-US.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-en-US.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-en-US.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-en-US.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-en-US.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-bs5.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote-lite.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.css.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.css.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\summernote\\summernote.min.js.map"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\for-admin-lte\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
       "Id": "D:\\Yazilim\\C#\\Projects\\Mvc\\MStore\\StoreApp\\wwwroot\\lib\\jquery\\jquery.js",

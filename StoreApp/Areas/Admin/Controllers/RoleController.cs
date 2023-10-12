@@ -28,14 +28,13 @@ namespace StoreApp.Areas.Admin.Controllers
 		}
 		[HttpPost]
 		[ValidateAntiForgeryToken]
-		public async Task<IActionResult> Create([FromForm] IdentityRole role)
+		public async Task<IActionResult> Create([FromForm(Name ="rolename")] string rolename)
 		{
-			if (!ModelState.IsValid)
-			{
-				return View();
-			}
-			await _manager.RoleService.CreateRole(role);
-			TempData["success"] = $"{role.Name} has been created.";
+			if (rolename == null)
+				return RedirectToAction("Index");
+
+			await _manager.RoleService.CreateRole(new IdentityRole() { Name=rolename, NormalizedName=rolename.ToUpper()});
+			TempData["success"] = $"{rolename} has been created.";
 			return RedirectToAction("Index");
 		}
 		public async Task<IActionResult> Delete([FromRoute(Name = "id")] string id)

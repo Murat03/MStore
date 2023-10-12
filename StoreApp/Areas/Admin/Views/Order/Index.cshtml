@@ -4,14 +4,14 @@
 {
 	@foreach (Order order in Model)
 	{
-		<div class="my-3">
+		<div class="m-3">
 			<partial name="_OrderDetails" model="@order" />
 		</div>
 	}
 }
 else
 {
-	<div class="alert alert-info">
+	<div class="alert alert-info m-3">
 		<p class="lead">There is no order yet.</p>
 	</div>
 }
